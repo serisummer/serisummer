@@ -10,7 +10,7 @@ My Skills:
 - SQL
 - Git/Github
   
-Here is my [**portfolio**](https://felixweiguangwu.github.io/) (currently undergoing update) and you can find out more about me on there. <br></br>
-<a href="wwg12121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <br></br>
-<a href="https://www.linkedin.com/in/weiguang-wu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <br></br>
-<a href="https://github.com/felixweiguangwu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br></br>
+Here is my [**portfolio**](https://felixweiguangwu.github.io/) and you can find out more about me on there. <br></br>
+You can also shoot me an [**email**](wwg12121@gmail.com) <br></br>
+<a href="https://www.linkedin.com/in/weiguang-wu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/felixweiguangwu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
