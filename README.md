@@ -1,4 +1,16 @@
-### *Hello, I am Weiguang Wu and also go by Felix. I am a 4th-year Computer Science student at UC Irvine.*  
-I am interested in computer science in general but with a special interest in software engineering. My interest of this subject mainly comes from my desire of creating something that will benefit people in their daily lives. Although it is a fairly broad goal for now, it is still my biggest motivation. I have done some projects for my coursework but not many outside of school. You will see more projects and contributions to projects in my profile in the future! I will work hard on improving myself!
+## *Hello, Weiguang here, I'm a 4th-year Computer Science student at UC Irvine👋*
+<p>As I was just tapping into the world of computers, I didn't have clear goals and was struggling a lot. It's a difficult field of study but as my knowledge regarding computer science expands, my curiosity in technology is ever expaning as well. It gave me the persistence, strength, and courage to withstand the constant depression and misery as I complete my degree (not as miserable as before because I became more kownledgeable and I went to therapy :D mental health is important!) And now I enjoy studying computer science a lot, it's almsot therapeutic to me now!</p>
+<p>More exciting projects coming up soon!</p>
 
-This is my [**website**](https://felixweiguangwu.github.io/) (currently undergoing update) and you can find out more about me on there. If you are interested, here is my [**LinkedIn**](https://www.linkedin.com/in/weiguang-wu-71b441232/). You can also shoot me an **email**(wwg12121@gmail.com). I am happy to connect with anyone and collaborate on projects :D
+My Skills:
+- Java
+- C/C++
+- Python
+- JavaScript, HTML, CSS
+- SQL
+- Git/Github
+  
+Here is my [**portfolio**](https://felixweiguangwu.github.io/) (currently undergoing update) and you can find out more about me on there. <br></br>
+<a href="wwg12121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <br></br>
+<a href="https://www.linkedin.com/in/weiguang-wu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <br></br>
+<a href="https://github.com/felixweiguangwu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br></br>
