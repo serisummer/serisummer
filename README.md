@@ -7,6 +7,8 @@ Skills:
 - JavaScript, HTML, CSS
 - SQL/MySQL
 - Git/Github
+- Unix/Linux, Windows
+- MERN stack
   
 [**portfolio**](https://serisummer.github.io/) <br></br>
 email: seraphine5summer@gmail.com <br></br>
