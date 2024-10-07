@@ -1,14 +1,4 @@
 ## *Hello, Seraphine here, I'm a 4th-year Computer Science student at UC Irvine👋*
-
-Skills:
-- Java
-- C/C++
-- Python
-- JavaScript, HTML, CSS
-- SQL/MySQL
-- Git/Github
-- Unix/Linux, Windows
-- MERN stack
   
 [**portfolio**](https://serisummer.github.io/) <br></br>
 email: seraphine5summer@gmail.com <br></br>
