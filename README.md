@@ -1,4 +1,4 @@
-## *Hello, Seraphine here, I'm a 4th-year Computer Science student at UC Irvine👋*
+## *Hello, Seraphine here, I'm a newly graduated computer science student at UC Irvine👋*
   
 [**portfolio**](https://serisummer.github.io/) <br></br>
 email: seraphine5summer@gmail.com <br></br>
